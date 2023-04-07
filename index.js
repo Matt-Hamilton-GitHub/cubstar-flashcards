@@ -5,7 +5,7 @@ var cors = require('cors')
 app.use(cors())
 
 const mongoose = require('mongoose');
-const URL = `mongodb+srv://admin-matt:Test1234@cluster0.mplyw.mongodb.net/test`
+const URL = `mongodb+srv://admin-matt:here@cluster0.mplyw.mongodb.net/test`
 
 
 const bodyParser = require("body-parser");
